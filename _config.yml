@@ -61,7 +61,7 @@ gems:
 prose:
   metadata:
    _posts:
-     - name: "title"
+   - name: "title"
        field:
          element: "text"
          label: "title"
