@@ -57,3 +57,22 @@ author:
 gems: 
   - jekyll-seo-tag
   - jekyll-paginate
+  
+metadata:
+ _posts:
+  -name: "title"
+   field:
+     element: "text"
+     label: "title"
+  - name: "description"
+    field:
+      element: "text"
+      label: "description"
+  - name: "layout"
+    field:
+      element: "hidden"
+      value: "post"
+   - name: "date"
+     field:
+       element: "text"
+       value: "CURRENT_DATETIME"
