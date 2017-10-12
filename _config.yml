@@ -8,8 +8,8 @@
 # Site settings
 title: jchittam.com server1 status
 description: > # this means to ignore newlines until "baseurl:"
- The current status and past incidents on jchittam.com server1.
-baseurl: "/server1-status" # the subpath of your site, e.g. /blog
+ The current status and past incidents.
+baseurl: "/server-status" # the subpath of your site, e.g. /blog
 url: "https://jchittam.github.io/server-status/"
 permalink: :title/
 full-url: "https://jchittam.github.io/server-status/" # the base hostname & protocol for your site
