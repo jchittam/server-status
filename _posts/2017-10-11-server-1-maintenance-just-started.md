@@ -2,7 +2,6 @@
 published: true
 description: Server 1 Maintenance Update
 layout: post
-categories: update
 ---
 ## Server 1 Maintenance Update
 
