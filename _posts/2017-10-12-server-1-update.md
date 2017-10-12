@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-10-12 00:02 -0400'
-published: false
+published: true
 title: Server 1 Update
 description: Everything is back online
 ---
