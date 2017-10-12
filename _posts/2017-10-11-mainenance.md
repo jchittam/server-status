@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 description: There may be some downtime late tonight.
 categories: general
