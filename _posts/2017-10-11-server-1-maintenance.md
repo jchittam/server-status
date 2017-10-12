@@ -2,7 +2,6 @@
 published: true
 layout: post
 description: There may be some downtime late tonight on Server 1.
-categories: scheduled maintenance
 ---
 ## Server Maintenance Tonight
 
