@@ -69,6 +69,10 @@ prose:
         field:
           element: "text"
           label: "description"
+      - name: "categories"
+        field:
+          element: "text"
+          label: "category"
       - name: "layout"
         field:
           element: "hidden"
