@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-description: There may be some downtime late tonight.
+description: There may be some downtime late tonight on Server 1.
 categories: general
 author: john
 ---
