@@ -61,15 +61,15 @@ gems:
 prose:
   metadata:
    _posts:
-    - name: "title"
+     - name: "title"
       field:
         element: "text"
         label: "title"
-    - name: "description"
+     - name: "description"
       field:
         element: "text"
         label: "description"
-    - name: "layout"
+     - name: "layout"
       field:
         element: "hidden"
         value: "post"
