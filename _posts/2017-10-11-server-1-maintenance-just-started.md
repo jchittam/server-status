@@ -1,6 +1,7 @@
 ---
 published: true
 description: Server 1 Maintenance Update
+layout: post
 ---
 ## Server 1 Maintenance Update
 
