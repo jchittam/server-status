@@ -10,9 +10,9 @@ title: jchittam.com server1 status
 description: > # this means to ignore newlines until "baseurl:"
  The current status and past incidents on jchittam.com server1.
 baseurl: "/server1-status" # the subpath of your site, e.g. /blog
-url: "https://jchittam.github.io/server1-status/"
+url: "https://jchittam.github.io/server-status/"
 permalink: :title/
-full-url: "https://jchittam.github.io/server1-status/" # the base hostname & protocol for your site
+full-url: "https://jchittam.github.io/server-status/" # the base hostname & protocol for your site
 
 
 # CSS
@@ -31,7 +31,7 @@ analytics: UA-83979019-1
 simpleform-token: b6d4be9b039b666b3311e1ddcbfb577c
 
 # Redirect users after submitting the form
-redirect-to: http://blog.webjeda.com/thank-you/
+redirect-to: https://jchittam.github.io/server-status/
 
 # Site version
 version: 0.9
@@ -48,7 +48,7 @@ markdown: kramdown
 include: [_pages] # Includes files inside _pages directory [Do not remove this]
 
 author:
-  name: jchittam.com server1 status
+  name: jchittam.com server status
   image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
   about: Not much right now.
   facebook: 
