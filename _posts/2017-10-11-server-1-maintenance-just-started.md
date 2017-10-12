@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 description: Server 1 Maintenance Update
 ---
 ## Server 1 Maintenance Update
