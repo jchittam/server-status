@@ -10,6 +10,8 @@ categories: Complete
 
 The host has finished moving everything to the new node and everything should be back online. I will continue to monitor the server to make sure everything stays online. Please let me know if you have any questions or concerns!
 
+---
+
 ### Update (11:30 PM)
 
 The host just began merging all the contents of the server to the new node. The sites may be down for the next 30 minutes or so. Thank you for your patience!
