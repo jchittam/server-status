@@ -60,10 +60,10 @@ gems:
   
 metadata:
  _posts:
-  -name: "title"
-   field:
-     element: "text"
-     label: "title"
+  - name: "title"
+    field:
+      element: "text"
+      label: "title"
   - name: "description"
     field:
       element: "text"
