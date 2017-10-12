@@ -2,7 +2,7 @@
 published: true
 description: Server 1 Maintenance Update
 layout: post
-2017-10-11 23:30:00
+date: 2017-10-11 23:30:00
 ---
 ## Server 1 Maintenance Update
 
