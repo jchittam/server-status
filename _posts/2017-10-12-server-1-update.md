@@ -4,6 +4,7 @@ date: '2017-10-12 00:02 -0400'
 published: true
 title: Server 1 Update
 description: Everything is back online
+categories: Complete
 ---
 ## Server 1 Update: Everything is back online
 
