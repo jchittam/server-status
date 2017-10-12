@@ -4,7 +4,7 @@ published: true
 description: There may be some downtime late tonight on Server 1.
 date: 'Wed Oct 11 2017 22:00:00 GMT-0400 (EDT)'
 title: Server 1 Maintenance
-categories: Scheduled Maintenance
+categories: Scheduled
 ---
 ## Server Maintenance Tonight
 
