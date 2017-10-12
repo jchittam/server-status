@@ -4,6 +4,7 @@ layout: post
 description: There may be some downtime late tonight on Server 1.
 categories: general
 author: john
+category: scheduled maintenance
 ---
 ## Server Maintenance Tonight
 
