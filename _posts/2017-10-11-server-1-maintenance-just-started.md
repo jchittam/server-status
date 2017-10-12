@@ -1,8 +1,10 @@
 ---
+layout: post
 published: true
 description: Server 1 Maintenance Update
-layout: post
-date: 2017-10-11 23:30:00
+date: 'Wed Oct 11 2017 23:30:00 GMT-0400 (EDT)'
+title: Server 1 Maintenance Update
+categories: Update
 ---
 ## Server 1 Maintenance Update
 
