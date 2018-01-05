@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2018-01-04 19:15 -0500'
+date: '2018-01-03 19:15 -0500'
 published: true
 title: Emergency Reboot 01/04/2018
 description: Up to 30 minutes of downtime is expected.
