@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-description: All server maintenance in complete.
+description: All server maintenance is complete.
 date: 'Wed Oct 11 2017 22:00:00 GMT-0400 (EDT)'
 title: Server 1 Maintenance 10/11/2017
 categories: Complete
