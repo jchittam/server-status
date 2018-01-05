@@ -2,7 +2,7 @@
 layout: post
 date: '2018-01-04 19:15 -0500'
 published: true
-title: Emergency Reboot
+title: Emergency Reboot 01/04/2018
 ---
 ## Reboot required to patch new security vulnerability
 
