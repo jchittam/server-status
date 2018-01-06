@@ -8,7 +8,7 @@ categories: Complete
 ---
 ## Emergency maintenance and reboot is complete.
 
-All sites are back to nirmal. Please let me know if your site is experiencing any issues.
+All sites are back to normal. Please let me know if your site is experiencing any issues.
 
 ---
 
