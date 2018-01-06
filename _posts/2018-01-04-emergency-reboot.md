@@ -3,7 +3,7 @@ layout: post
 date: '2018-01-03 19:15 -0500'
 published: true
 title: Emergency Reboot 01/04/2018
-description: Emergency reboot is complete. All sites are back online.
+description: Emergency maintenance and reboot is complete.
 categories: Complete
 ---
 ## Emergency maintenance and reboot is complete.
